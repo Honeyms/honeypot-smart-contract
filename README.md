@@ -43,4 +43,8 @@ Make your mark in the blockchain world - with our unique smart contract.
 
 📦 In the package you will have a Contract and complete instructions step by step
 
-Price - TG @T837381
+Escrow Accepted
+
+Price  from 499$ to 1499$ ( Depends on Functionalities )
+
+- TG @T837381

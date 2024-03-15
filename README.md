@@ -13,6 +13,8 @@ Make your mark in the blockchain world - with our unique smart contract.
 
 ⁃ You can set up 
 
+- EVM ( Means it works on : ERC , BSC , POLYGON , CARDANO , FANTOM , TRON , BLAST )
+
 ⁃  There are no restrictions on the creator.
 
 ⁃  Burning tokens in the wallet.
